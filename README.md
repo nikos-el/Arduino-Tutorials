@@ -1,4 +1,4 @@
 # Arduino Tutorials
 
 ### Arduino MiniCourse tutorials.
-Developed for IEEE NTUA Student Branch, RAS - Smart City project (2022-2023) by Nikos Eleftheriou.
+Developed for IEEE NTUA Student Branch, RAS - Smart City project (2022-2023) 
